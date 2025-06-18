@@ -5,6 +5,14 @@ This is a simple Flask web application that checks the strength of passwords bas
 - ✔️ Uppercase and lowercase letters
 - ✔️ Numbers
 - ✔️ Special characters
+- 
+Project screenshot
+
+Live usage instructions
+
+Technologies used
+
+Contribution or license section
 
 ## 🚀 How to Run
 
